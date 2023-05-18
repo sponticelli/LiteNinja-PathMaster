@@ -1,0 +1,23 @@
+{
+  "name": "com.liteninja.pathmaster",
+  "version": "0.1.0",
+  "displayName": "LiteNinja PathMaster",
+  "description": "Forge seamless paths in the editor, generate mesmerizing mesh trails, and pave the way to endless possibilities!",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/sponticelli/LiteNinja-PathMaster/blob/main/README.md",
+  "changelogUrl": "https://github.com/sponticelli/LiteNinja-PathMaster/blob/main/changelog.md",
+  "licensesUrl": "https://github.com/sponticelli/LiteNinja-PathMaster/blob/main/LICENSE",
+  "dependencies": {
+  },
+  "keywords": [
+    "utility",
+    "path",
+    "procedural generation",
+    "utils"
+  ],
+  "author": {
+    "name": "Sandro Ponticelli",
+    "email": "sandro.ponticelli@gmail.com",
+    "url": "https://github.com/sponticelli"
+  }
+}
